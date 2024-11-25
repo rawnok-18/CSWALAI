@@ -11,7 +11,7 @@ const InitialUI = () => {
         height={400}
         width={400}
       />
-      <h1 className="text-center font-bold gradient-text">Meet rAI</h1>
+      <h1 className="text-center font-bold gradient-text">Meet CS WALA AI</h1>
       <h1 className="text-center font-bold gradient-text">
         Your delightful AI chatbot
       </h1>
