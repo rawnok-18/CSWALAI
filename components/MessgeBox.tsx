@@ -25,7 +25,7 @@ const MessgeBox = ({ chats }: ChatProps) => {
 
       <div>
         <span className="font-bold mb-1">
-          {chats.role === 'user' ? 'You' : 'rAI'}
+          {chats.role === 'user' ? 'You' : 'CSWALA-AI'}
         </span>
         <ReactMarkdown
           className="flex flex-col gap-4"
