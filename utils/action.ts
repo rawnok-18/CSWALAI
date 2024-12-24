@@ -4,7 +4,7 @@ interface Chat {
   parts: string
 }
 
-const apiKey = 'AIzaSyCEfsUhvPHefLMAqWJxabkfF7u25IkRcZc'
+const apiKey = 'AIzaSyAZkaLo73Plle0jVzXr8bBYz3mzKQaP6-I'
 const genAI = new GoogleGenerativeAI(apiKey)
 
 export async function run(prompt: string, history: Chat[]) {
